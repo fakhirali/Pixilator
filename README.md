@@ -1,2 +1,2 @@
 # Pixilate 
-pixilates image by a defined pixil soze by averaging 
+pixilates image by a defined pixel size by averaging with the surrounding pixels
